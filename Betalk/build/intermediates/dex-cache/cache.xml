@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/99281e37effb55a6da9f785f2b577a63f10c3d72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6ca3eed8f2d8ccb704f84e6d9f5d729f2a18e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_3f5a55ca0c5c79d8610b34704509f4d82324e197/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_071718d50b7e4aa90c2eb2929abec74e5ab8f66b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/ccde7846ae8ccf3ec2b28fd93a7a75bb3c6a8caa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f863ef492d6138e7788660af9dd043f4ae0b2fe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_12a4dd39f00640e91a7e529cdef85626b6ac51d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/bb38618268ccbaae097e8631d253fedf44904465/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad902d28262231f723c49adde440e1a07396e672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/984fe613f1643ab4f71cc7dc63a5ebcaf96598b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e9066e8e8c54937c8ebf7398b5fd11527d49457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/f8c8c2d17877dc411a79d9b2017c5f4600ea0180/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cae20b837681d0b51bd5efe13ac8b7283a6bd1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/e10edcaa0678599f1b35a46a65e8ed48b9abd005/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bc550718fe9487a3c83846be3cf2631ae12db2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/51465f7514a07d774b787c236fcada0f7369dfc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bbb0bb4d6e882de86a7d3a2f6b70f9c24cfe452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/0ece8c8f1576ad199bc4d06bfa60a8ce01c77c56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93b7f4125ee1c22d1f077df82a801387c41bd612/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/5ade52f1d223bacb6166b51693e67504ad22bb3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd193c565f18ff58313c33178e6a9167635a6681/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/6278ef7ea49f906e86672a59f59fc31938ef614b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4f052f393e1eaef1fd7ff091c7e2b31572f4dd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/7d04930ddd6ddd2c4e3cdbb32bd0a23879cd117b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8aae868e1584e19f922ca8c6b57b0ca82d89ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/1d51d7cdb763528a7ffb7d1bae921526aa7df473/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_804c91284a0ca947c44f01fc098372b926d58833/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/0136bf4dc22f66ab0a767dd2f054e876e027a6ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccc382e3cb691cbd35e39d12c8b53c0c9dc64c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/fe5cebcd9ee37718123e52ad5f22c347eef76e85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2741512b39bba430cc73d7e7278ef26fbb4d4d0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/ab3caa06c72f14c9b386184b982db4d0e9a02722/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a7b2f978e70e7e73b6f536ced38ea0ae6662a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/b6f8b0387edcf7859b8a141f46136ca7f80f5559/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_530479d98a5bf09dcac71ebe43ddb0539317a1db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/42ea7c339c242a765df3797d5066274bbd339974/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_020b3ab77b17e38e5496eb0157871c717d80aba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/fd881cc7e8b9640faede72e67bb321d101c552f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31dcbd862c9a0e1af6a0088fc3a0ebb8ef3455c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/0e32e430e02121fbcdf51d6453d6c79c47e6d4d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7720600d18327e4fdcd062523bace5c01095c5fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/fd83c6ec74d80f162f7749475c428db4bd598d09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8eb8effbe9fc5b11dcb0a02f9ff9b7d466f5779c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/ddb04c9e1addcb10d291f55aeef6ce7436e6df60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6810a5c5c99b66b0fde150a2a9c0c9565ca2d1f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/ab54afead81e5b532146ede38f2cd6433a490afa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_091a2a4324df65f07e29636d546da5d692be9949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/08e579c7fa4606707428fe34d23777e1170f248a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf2427c90e6268475b17059930e8bed97016ff18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/ad6417b675182b47d1790f5aa86b459a1d5ae405/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6586cda145b75fcb7e98942ce174225ac32a278e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/3c5f1927a01fee0db0ae3fd8fed2c9520e7117e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ec5d41db3839eac1da225a7061bdc36737a145d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/904fb91809eee1bc4ce62b43039d8f03e05edf6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b8f0e16cdb827f4d3ac7105a3188783aee73f10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/76b3afb50d41ddc3f5f2d4357c6eb8187840e264/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6fe81a60652564237a0b14c5fbe6de24b9ef1d2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/122c6f314f4e98d9554669ad688545f24f2f5e20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3f81042e5813ec722fd07351a60a0be87686660/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/1949bede619124e763239a25287f4d5ec9db3333/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fefcc8b7d1331b0294ee80809dfd11d8464d70c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/572417699abdb5b6e8ea48c71e955cad0b91cfff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_180602f20e79d620492e4fd39399329c90b31904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/bdfd6888c1a100f61ca00cbdcbc7f8eca34fb880/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6fca579ca82b0445665e08de338ce46a54c27f5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8999438e584635c7bd4fbc6d0ec1ebde91ec666d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/6916fa20553c1b0f909cb8d6f1587faf84c2d8c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c75c5cfcced026d03b6fccd3e484cc6018f62cb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/1929ba8cd63683848e14ff385310725b771997c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="392c97a8270ccf3cc7fe6e0a5d97a5e97a61e65c">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c55211b237a0a4f19221150ff1c7a6ea79d7850/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta2_538d2d40fffe03221d53e41cf2fdb1bd1400f76d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/6a7f2161e2fb5e85acad22cb32f22c7ffdac0288/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5810e1fad70cafadc3fc3f2302a9823cf248fd02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_b16a7238ab1e94211144ff98b6e29ab0db957d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/f989f456fe75c35b3695dfd0d0d2f4274e45af2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84e63fc6f63e42231f7cc0336d933e2d3d303659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/a1542e1d1630d2b1184d793ffb655deed5371e2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65e3e9e7265fd4564c806b256aee97375ce368b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/2c278aa9c19d04f3a8d465f3da2f1b7ab079e7cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa55c510f573d6091f6fd8c606e83f4c673ab1b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/910e722261559b1dd5432a6c53865b6f05e1e3a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_737b8083f6bf3c004c35cd2800ef28ac2f3a9616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_0d95b922e5a4a59e2084e7b50314b8de29847f96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/82a2431973dbf1efe2bc150b1ee054d45c11c2e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dabe07e4d8b645ba9bcb47b81878e4147693816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/c3b4914bd3a7ac661807904ea9bd24ff677075fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3488b0dccab922e9ccb09039d5eb4df5a27eaf56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/ba3e4456c2cbd22b3484b251d6e0bc3a4018946b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a801972fbc74dc53d74199cf4e98847083ece53a">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70a5eeb7ca9e3bd40b6b353d92a31a1049c80e55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/c32ec89c7971899bca7bc899c18b3b12c8137ba2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8be281af1ce7f28ebd9f1c99e1649f7a458596c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/6a9913b1a585ae0beea01c30dc8a044cb3b45d9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34e9d070fd897badc0d5ab8d8fbd15d80c99b4fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_e735d2abf66edadfdd19d0d8fbf748e61dfc3a92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/f086d26463c345cf36349f4d21da01c965b3d0da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6d8ac5e546f6b7247d3ef9e12d3dd3f49884856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/530d384a5d2a72ad372b44ebd70fff21e2f7678c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3af3dcf770a257483cd37874f7001d301838ab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/7af8e4983cbc759f2ca61e2a3de868df4994c76a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0b2b14c7abeba4e4cd268840759792e585efacd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/a3481a0716defe6de09979bbd64f46bb63fc832b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fecd7225c82783464a1842969f69b64f4f27b48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_b7bc90f095881532643f0b5fb7594cb745fdcb0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/2b196ba6be12bab1b79a0dfb1fb8b6348d057c28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83e495bd9230c882fc4b8949eeb571c544952ac5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/71601e5d5481d88db6acc4f77591add092718fa8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81f6c96826653081f0c6b821dcd6d719c454c41e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/7defdaca64c7008549b015168916601dea05a2b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b595cf7b51f727b69a46fe87a9ca8c428a588ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/6c6ebf965da2a2b7039feebe26c951998148e588/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e90b641e3b5c9e9c63dc0b320d8dc1fe649bc9f">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_deb3d1feb32675a0eea809d0150be9c3effdc8ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/116610daf87e01ddc0a4ae7b44e4174e0b236c55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_364dac23ed976b39c75d8974bf7c98afbaa48981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/85ea0cf2f6baa15e3107b6cbfc54a80c620e07e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e964ef65ca55b45a8865717575dc586ffb49206f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/fa7ec469ab7e0a02db5855b6bf276436ea47be42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3fdae45a785660a0c9c4c19953c4ac9364722f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/a9b37fa28fc8f5eb99ec738d01d005c74a80b00b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41c3398b26b6805644c4b93c2852447fff30ef6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/0d030f7d33c3c7de9364055309aaac2baa145297/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad8167ef7f7054102585000ca265886de7ec229f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/141c6aa38ea2f1e1ff3ee466ca2ee502ebbd15be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f67d7f0a78484969949bb3c7743dd9af0727bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/79f7eb52be896a7de240e9d0aa3ae5c810519df1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c27252c385cc1fbf34296a992684f9dfbd8a064a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/002153a9abeae0201ea4039bb9358b62450828c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c0df2f2335bcb6343fd277ad954ce5d31a1fe22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_17285f1bf349c6b9a348f21af5f38120c7e106a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/0e6c71c1df68313e853cb30e60cebda3c6ff09f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d7855619490a1b0eb3aff27f2593b7418fb0dca">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bad0785c6136faf6222ba4007a9deaea88ce990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/7429715ae914523a40c6b88c62106e191c6427c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfa07de93703fa7e58af66a6dfc7fcb4e2c8f794/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/0600d680a4be843a6b72c0d0898d6ccd1ea78885/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e5123d5729e797c840dc0bcb8986e212dd91160/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/bc70e1c25684814bb44efa6e633b6522e96cb8ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0897b5919e53b5c43e02d21e11bfe2a63016bae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/bfda11ce8f8b3f791a1ba66a085a98e6eea6fb4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8416c2649269ab0372014ceb94d7a35b5a6c59a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/d5793fa43dd944c528de214208802c04a62886ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c5aa4d3b6b5119621292c7e3d2cbc8f39004310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/d8ad9981d86bd9c6390540390f65e77dfaaf18b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4470545a5aea2357c629fb2cc89212e14ad08da1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/7e67e387ab2e1182e2fc086033b60a9b3d209811/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31b2a41e236500aed356d08e80820aa79ddfaadc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/e4db505f5dcc762eaae8081ff6d9297e4d2ec0ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6eb8f2bf3711787b527f08bc1a3c511f489fa1d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/620abf7ecbc62d1eadf9854597d89d26a0adc4f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_558369e0e5a534d249b838bfc42c3e69b2f1286d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/4a9c45e8543e77fcc6807b2f8bbfb2fe8ae80c0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aaf461ef20bda2de8a02297e78dee4865c3c4bff">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d00fb160942bc2c6ecc77b5c81c63e316394362/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/d3632576886df49d9c1af272da8749e05c69ff32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e927a7f93d25326eaca7a92e18f5fccc0b4c01fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymacbookpro/.android/build-cache/31c19b1607b2dd00be63ee52c39cc403f56b7433/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/mymacbookpro/Downloads/Betalk/Betalk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12a42ac842a9bfd504c9255ef1dd79e1102f04f3/classes.dex" />
+    </item>
+
+</items>

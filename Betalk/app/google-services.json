@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999624147497",
+    "firebase_url": "https://betalk-80f7f.firebaseio.com",
+    "project_id": "betalk-80f7f",
+    "storage_bucket": "betalk-80f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999624147497:android:eecf6afeac103032525238",
+        "android_client_info": {
+          "package_name": "com.betalk.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999624147497-4gt79427mfa9eg5tgkiukl84hertmsvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBBUkIClGuHXEyv4OgWEWMCbXlchMV3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999624147497-4gt79427mfa9eg5tgkiukl84hertmsvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

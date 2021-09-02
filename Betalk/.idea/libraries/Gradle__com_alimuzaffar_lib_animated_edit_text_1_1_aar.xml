@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alimuzaffar.lib:animated-edit-text:1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/255f4caa9067e2a398f91c6e85a6cf31/animated-edit-text-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/255f4caa9067e2a398f91c6e85a6cf31/animated-edit-text-1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alimuzaffar.lib/animated-edit-text/1.1/24d3e124e4125421d97e39008d8380b70dd20aec/animated-edit-text-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alimuzaffar.lib/animated-edit-text/1.1/c1e958f42bb68d16cfa83f1a96bbbee8dacc2bc7/animated-edit-text-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
